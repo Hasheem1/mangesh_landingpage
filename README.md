@@ -113,3 +113,6 @@ This is a personal/client project, but feedback and suggestions are always welco
 Designed and built end-to-end — from UX to deployment.
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+<img width="1155" height="1155" alt="menuQR" src="https://github.com/user-attachments/assets/3f1c2ddc-a027-4820-8dfb-5ce8d6bd823f" />
+https://restaurant-menu-b578e.web.app
